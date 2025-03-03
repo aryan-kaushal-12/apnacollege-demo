@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Aryan Kaushal
+Author - Aryan Kaushal (god)
